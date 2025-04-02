@@ -1,0 +1,25 @@
+{
+  "@@locale": "hi",
+  "appTitle": "डिलीवरी ऐप",
+  "orderDetailsTitle": "ऑर्डर विवरण {orderId}",
+  "@orderDetailsTitle": {
+    "placeholders": {
+      "orderId": {
+        "type": "String"
+      }
+    }
+  },
+  "customerName": "ग्राहक का नाम",
+  "deliveryAddress": "डिलीवरी का पता",
+  "orderStatus": "ऑर्डर की स्थिति",
+  "timeSlot": "समय स्लॉट",
+  "sequenceNumber": "क्रम संख्या",
+  "updateStatus": "स्थिति अपडेट करें",
+  "pending": "लंबित",
+  "inProgress": "प्रगति में",
+  "delivered": "वितरित",
+  "todaysDeliveries": "आज की डिलीवरी",
+  "sortBySequence": "क्रम से क्रमबद्ध करें",
+  "sortByStatus": "स्थिति से क्रमबद्ध करें",
+  "noOrders": "आज के लिए कोई ऑर्डर असाइन नहीं किया गया"
+}

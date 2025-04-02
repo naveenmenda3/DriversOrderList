@@ -1,0 +1,25 @@
+{
+  "@@locale": "en",
+  "appTitle": "Delivery App",
+  "orderDetailsTitle": "Order Details {orderId}",
+  "@orderDetailsTitle": {
+    "placeholders": {
+      "orderId": {
+        "type": "String"
+      }
+    }
+  },
+  "customerName": "Customer Name",
+  "deliveryAddress": "Delivery Address",
+  "orderStatus": "Order Status",
+  "timeSlot": "Time Slot",
+  "sequenceNumber": "Sequence Number",
+  "updateStatus": "Update Status",
+  "pending": "Pending",
+  "inProgress": "In Progress",
+  "delivered": "Delivered",
+  "todaysDeliveries": "Today's Deliveries",
+  "sortBySequence": "Sort by Sequence",
+  "sortByStatus": "Sort by Status",
+  "noOrders": "No orders assigned for today"
+}
